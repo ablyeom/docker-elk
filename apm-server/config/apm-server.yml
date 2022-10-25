@@ -1,0 +1,11 @@
+
+output.elasticsearch:
+  hosts: ["elasticsearch:9200"]
+  username: 'apm_system'
+  password: 'QbeKwQ_3yWdEu*WUMVcM'
+
+
+kibana:
+  enabled: true
+  host: "kibana:5601"
+  
